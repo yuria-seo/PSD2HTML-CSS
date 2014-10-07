@@ -10,11 +10,14 @@
 body {
 	/* 디자인 가이드라인으로 쓸 베이스라인 배경 이미지를 삽입 */
 	background-image: url(../images/baseline-21.gif);
-
 	/* 본문 텍스트에 대한 디자인(설계) */
 	font-family: "Nanum Gothic", "돋움", Dotum, Sans-Serief;
+	font-size: 14px;
+	letter-spacing: -0.02em;
+	line-height: 1.5;
+	color: #2e3032;
 }
 
 p {
-
+	margin-bottom: 21px;
 }
