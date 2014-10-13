@@ -7,10 +7,10 @@
 6. HTML & CSS
 
 ## 참고 URL: Design Guide References
-[Twitter Bootstrap DG](http://getbootstrap.com/ "트위터 부트스트랩 디자인 가이드")
-[GitHub DG](https://github.com/styleguide/css "깃허브 디자인 가이드")
-[BBC GEL DG](http://www.bbc.co.uk/gel "BBC Global Expirence Language 디자인 가이드")
-[Lonely Planet DG](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours "Lonely Planet 디자인 가이드")
+- [Twitter Bootstrap DG](http://getbootstrap.com/ "트위터 부트스트랩 디자인 가이드")
+- [GitHub DG](https://github.com/styleguide/css "깃허브 디자인 가이드")
+- [BBC GEL DG](http://www.bbc.co.uk/gel "BBC Global Expirence Language 디자인 가이드")
+- [Lonely Planet DG](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours "Lonely Planet 디자인 가이드")
 
 ### Typography
 - 제목(Heading) 1-6
