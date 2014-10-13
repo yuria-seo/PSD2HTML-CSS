@@ -1,6 +1,9 @@
 PSD2HTML
 ========
 
+[익스피디아] (http://www.expedia.co.kr/) 웹 사이트 리뉴얼 디자인 (Designed by 허유석) PSD 파일을 제작해보고, 웹 데이터(HTML, CSS)로 제작해보는 과정을 실습합니다.
+
+
 ## Header 영역
 	- Expedia 로고
 	- GNB
