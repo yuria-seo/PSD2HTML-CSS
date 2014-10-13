@@ -1,4 +1,4 @@
-PSD2HTML
+PSD2HTML&CSS
 ========
 
 [익스피디아] (http://www.expedia.co.kr/) 웹 사이트 리뉴얼 디자인 (Designed by [허두석](https://twitter.com/dosigndanny)) PSD 파일을 제작해보고,
