@@ -5,7 +5,7 @@ PSD2HTML&CSS
 
 ![허두석 수강생의 익스피디아 리뉴얼 PSD 디자인](https://raw.githubusercontent.com/yamoo9/PSD2HTML-CSS/master/DAY04-Design-Guide-&-Grid-System/PSD%20(Designed%20by%20%ED%97%88%EB%91%90%EC%84%9D)/960gs_danny_default.jpg "허두석 수강생의 익스피디아 리뉴얼 PSD 디자인")
 
-=
+-
 
 ## Header 영역
 	- Expedia 로고
