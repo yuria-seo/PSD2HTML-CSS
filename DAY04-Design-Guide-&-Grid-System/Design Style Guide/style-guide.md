@@ -4,7 +4,7 @@
 3. 레이아웃 Layout
 4. 내비게이션 Navigation
 5. 이미지/비디오 Images & Videos
-6. HTML & CSS
+6. 샘플코드 Sample Code: HTML&CSS
 
 ## 참고 URL: Design Guide References
 - [Twitter Bootstrap DG](http://getbootstrap.com/ "트위터 부트스트랩 디자인 가이드")
