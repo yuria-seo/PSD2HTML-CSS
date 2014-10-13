@@ -3,7 +3,7 @@ PSD2HTML&CSS
 
 [익스피디아] (http://www.expedia.co.kr/) 웹 사이트 리뉴얼 디자인 (Designed by [허두석](https://twitter.com/dosigndanny)) PSD 파일을 토대로 그리드 시스템 기반의 디자인 방법론을 공부해보고, 웹 데이터(HTML, CSS)로 제작해보는 과정을 실습해봅니다.
 
-![허두석 수강생의 익스피디아 리뉴얼 PSD 디자인](/DAY04-Grid-System/PSD%20(Designed%20by%20%ED%97%88%EB%91%90%EC%84%9D)/960gs_danny_grid.jpg?raw=true "허두석 수강생의 익스피디아 리뉴얼 PSD 디자인")
+![허두석 수강생의 익스피디아 리뉴얼 PSD 디자인](https://raw.githubusercontent.com/yamoo9/PSD2HTML-CSS/master/DAY04-Design-Guide-&-Grid-System/PSD%20(Designed%20by%20%ED%97%88%EB%91%90%EC%84%9D)/960gs_danny_default.jpg "허두석 수강생의 익스피디아 리뉴얼 PSD 디자인")
 
 
 ## Header 영역
