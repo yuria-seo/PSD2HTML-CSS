@@ -8,7 +8,7 @@ body {
 	/* 외부 여백(margin) 초기화 */
 	margin: 0;
 	/* 디자인 가이드라인으로 쓸 베이스라인 배경 이미지를 삽입 */
-	background-image: url(../images/baseline-21.gif);
+	background-image: url(../../images/baseline-21.gif);
 	/* 본문 텍스트에 대한 디자인(설계) */
 	font-family: "Nanum Gothic", "돋움", Dotum, Sans-Serief; /* 글꼴      */
 	font-size: 14px;                                        /* 글자 크기  */
