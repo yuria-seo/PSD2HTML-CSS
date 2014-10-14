@@ -1,5 +1,5 @@
-## README.md
-- [README.md](https://github.com/yamoo9/PSD2HTML-CSS "README 보기")
+## Go! Repository
+- [PSD2HTML&CSS](https://github.com/yamoo9/PSD2HTML-CSS "PSD2HTML-CSS 저장소 보기")
 
 ## 디자인 가이드: Design Style Guide
 1. 브랜딩 Branding
