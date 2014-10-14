@@ -18,3 +18,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# PSD
+*.psd
