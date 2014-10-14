@@ -20,4 +20,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # 모든 PSD 파일 업로드 제외
-*.psd
+# *.psd
