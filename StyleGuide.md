@@ -64,7 +64,7 @@
 
 =
 
-### Free Images(Photos)
+### Free Images
 * [Raumrot] (http://www.raumrot.com/10/)
 * [Unsplash] (https://unsplash.com/)
 * [Little Visuals] (http://littlevisuals.co/)
