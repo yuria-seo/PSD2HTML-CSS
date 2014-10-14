@@ -2,12 +2,17 @@
 - [PSD2HTML&CSS](https://github.com/yamoo9/PSD2HTML-CSS "PSD2HTML-CSS 저장소 보기")
 
 ## 디자인 가이드: Design Style Guide
+
+#### 웹 디자인 스타일 가이드 제작이 필요한 이유?!
+웹 사이트를 제작하는 것은 혼자서 할 수 있는 일이 아닌 매우 복잡한 과정입니다. 팀원이 효율적이고 조화롭게 즐기면서 디자인할 수 있는 경험을 갖기 위한 목적으로 디자인 가이드는 매우 중요한 역할을 수행합니다. 프로젝트 내 동일한 사용자 경험을 제시할 가이드가 있어야 맡은 바 임무가 다른 팀원들 간의 원할한 커뮤니케이션이 가능할 수 있으니까요.
+
 1. 브랜딩 Branding
 2. 타이포그래피 Typography
 3. 레이아웃 Layout
 4. 내비게이션 Navigation
 5. 이미지/비디오 Images & Videos
-6. 샘플코드 Sample Code: HTML&CSS
+6. 사용자 인터페이스 UI Kit
+7. 샘플코드 Sample Code: HTML&CSS
 
 =
 
