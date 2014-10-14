@@ -19,10 +19,15 @@
 -
 
 ### 참고 URL: Design Guide References
+- [Web Style Guide] (http://webstyleguide.com/wsg3/index.html "웹 스타일 가이드")
 - [Twitter Bootstrap DG](http://getbootstrap.com/ "트위터 부트스트랩 디자인 가이드")
 - [GitHub DG](https://github.com/styleguide/css "깃허브 디자인 가이드")
 - [BBC GEL DG](http://www.bbc.co.uk/gel "BBC Global Expirence Language 디자인 가이드")
 - [Lonely Planet DG](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours "Lonely Planet 디자인 가이드")
+- [Google Material DG] (http://www.google.com/design/spec/style/typography.html "Google 메테리얼 디자인 가이드")
+- [herokuapp DG] (http://sfdc-styleguide.herokuapp.com/?id=style "Heroku App 디자인 가이드")
+- [Starbucks DG] (http://www.starbucks.com/static/reference/styleguide/ "Starbucks 디자인 가이드")
+- [Yelp DG] (http://www.yelp.com/styleguide "Yelp 디자인 가이드")
 
 =
 
@@ -56,4 +61,9 @@
 - Breadcrumbs
 - ...
 
+=
 
+## 벡터 그래픽(아이콘 폰트, SVG)
+* [iconic] (https://useiconic.com/)
+* [Font Awesome] (http://fortawesome.github.io/Font-Awesome/icons/)
+* [Icomoon] (https://icomoon.io/)
