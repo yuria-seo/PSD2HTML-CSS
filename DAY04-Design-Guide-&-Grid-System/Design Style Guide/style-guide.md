@@ -63,7 +63,7 @@
 
 =
 
-## 벡터 그래픽(아이콘 폰트, SVG)
+### 벡터 그래픽(아이콘 폰트, SVG)
 * [iconic] (https://useiconic.com/)
 * [Font Awesome] (http://fortawesome.github.io/Font-Awesome/icons/)
 * [Icomoon] (https://icomoon.io/)
