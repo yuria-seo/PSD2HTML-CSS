@@ -7,6 +7,11 @@ PSD2HTML&CSS
 
 -
 
+## 디자인 스타일 가이드
+- [StyleGuide.md](/StyleGuide.md "디자인 스타일 가이드 보기")
+
+-
+
 ## Header 영역
 	- Expedia 로고
 	- GNB
