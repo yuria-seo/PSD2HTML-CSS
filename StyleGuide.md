@@ -69,6 +69,7 @@
 - 메인(Primary)
 - 보조(Secondary)
 - 무채색(Gray) 컬러
+- [Flat UI Colors] (http://flatuicolors.com/ "플랫 UI 컬러 리스트")
 
 =
 
