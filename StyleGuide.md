@@ -17,7 +17,7 @@
 6. 사용자 인터페이스 UI Kit
 7. 샘플코드 Sample Code: HTML&CSS
 
-![스타일 가이드](/styleGuide.png "스타일 가이드")
+![스타일 가이드](/images/styleGuide.png "스타일 가이드")
 
 =
 
