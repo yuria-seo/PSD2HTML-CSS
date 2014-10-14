@@ -9,7 +9,7 @@
 =
 
 #### 스타일 가이드란?!
-웹 사이트 디자인에 들어가기에 앞서 미리 제작하는 디자인 구성 요소 및 규칙(Graphics, Elements, Rules)으로, 프로젝트 상 서로 다른 영역인 디자이너/개발자 간의 조화롭고 충돌 없는 흐름을 구축하기 위해 필요한 지침서(Guide)입니다.
+웹 사이트 디자인에 들어가기에 앞서 미리 제작하는 디자인 구성 요소 및 규칙(Graphics, Elements, Rules)으로, 프로젝트 상 서로 다른 영역인 디자이너/개발자 간의 조화롭고 충돌 없는 흐름을 구축하기 위해 필요한 지침서(Guide)입니다. :-)
 
 1. 브랜딩 Branding
 2. 타이포그래피 Typography
@@ -22,8 +22,8 @@
 =
 
 #### UI 스타일 가이드
+<p><a href="DAY02-Environment-Settings/medialoot-ui-style-guide-template.zip?raw=true" target="_blank">Medialoot UI Style Guide Template 다운로드</a></p>
 ![UI 스타일 가이드](/images/styleGuide.png "UI 스타일 가이드")
-<p><a href="DAY02-Environment-Settings/medialoot-ui-style-guide-template.zip?raw=true">Medialoot UI Style Guide Template 다운로드</a></p>
 
 =
 
